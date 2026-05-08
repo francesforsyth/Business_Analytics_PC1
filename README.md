@@ -101,6 +101,5 @@ Para la entrega final (PC2), el proyecto escalará hacia:
 **Curso:** AD3010 Business Analytics - UTEC.  
 **Entregable:** PC1 - Informe de Propuesta y EDA.
 
-# Business_Analytics_PC1
-Proyecto de Scouting Latam
-Datasets en el drive --> https://drive.google.com/drive/folders/1VI53M0bne-3486oxisZpQ7YH5xIavorq?usp=sharing
+# Datasets
+Datasets en el drive --> https://drive.google.com/drive/folders/1vVPE252KF8h7mpV6nG52STV1wfKHRMNI?usp=share_link
